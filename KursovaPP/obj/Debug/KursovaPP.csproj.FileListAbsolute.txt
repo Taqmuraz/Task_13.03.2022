@@ -1,0 +1,7 @@
+D:\Downloads\Krusova\KursovaPP\KursovaPP\obj\Debug\KursovaPP.csproj.AssemblyReference.cache
+D:\Downloads\Krusova\KursovaPP\KursovaPP\obj\Debug\KursovaPP.csproj.CoreCompileInputs.cache
+D:\Downloads\Krusova\KursovaPP\KursovaPP\bin\Debug\KursovaPP.exe.config
+D:\Downloads\Krusova\KursovaPP\KursovaPP\bin\Debug\KursovaPP.exe
+D:\Downloads\Krusova\KursovaPP\KursovaPP\bin\Debug\KursovaPP.pdb
+D:\Downloads\Krusova\KursovaPP\KursovaPP\obj\Debug\KursovaPP.exe
+D:\Downloads\Krusova\KursovaPP\KursovaPP\obj\Debug\KursovaPP.pdb
